@@ -11,7 +11,7 @@ const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 export const generateAIResponse = async (prompt) => {
   try {
     const completion = await groq.chat.completions.create({
-      model: "llama-3.3-70b-versatile", // Best free Groq model
+      model: "openai/gpt-oss-120b", // Best free Groq model
       messages: [
         {
           role: "system",
