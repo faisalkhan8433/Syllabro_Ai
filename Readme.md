@@ -123,8 +123,4 @@ Your support motivates us to build Syllabro.AI into India’s most relatable AI 
 
 ---
 
-## 📬 Contact  
-**Developer:** Pawan Kumar sinha 
-GitHub: https://github.com/Pawan11sinha  
-LinkedIn: https://www.linkedin.com/in/pawan-kumar-sinha-0b789b390/
 
